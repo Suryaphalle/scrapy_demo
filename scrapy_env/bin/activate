@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/surya/scrapy/scrapy_demo"
+VIRTUAL_ENV="/home/surya/scrapy_demo/scrapy_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
